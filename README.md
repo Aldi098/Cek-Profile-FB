@@ -13,7 +13,6 @@
 📌 Lokasi
 📌 Jenis kelamin
 📌 Link Profile
-
 ```
 ## install
 ```
