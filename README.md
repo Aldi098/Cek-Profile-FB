@@ -1,11 +1,11 @@
 # Cek-Profile-FB
 
-```Cek Profile Fb```
-
+## Cek Profile Fb
+```
 📌 Login Token FB
 
-```Fungsi Fungsi```
-
+```
+## Fungsi Fungsi
 ```
 📌 liat ID
 📌 Tanggal lahir
@@ -15,20 +15,20 @@
 ```
 
 ## install
+```
+Pkg Install python
 
-```pkg Install python```
+pkg install git
 
-```pkg install git```
+pip install requests
 
-```pip install requests```
+pip install bs4 
 
-```pip install bs4 ```
+git clone https://github.com/Aldi098/Cek-Profile-FB
 
-```git clone https://github.com/Aldi098/Cek-Profile-FB```
+cd Cek-Profile-FB
 
-```cd Cek-Profile-FB```
+python Cek-profile.py
 
-```python Cek-profile.py```
-
-
+```
 
